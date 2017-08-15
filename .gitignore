@@ -1,0 +1,3 @@
+sql/metastore_db/*
+sql/spark-warehouse/*
+sql/derby.log
